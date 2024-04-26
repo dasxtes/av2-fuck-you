@@ -13,10 +13,12 @@ color: var(--branco-principal);
 }
 .principal{
 background-image: url(img/Background.png);
+background-repeat: no-repeat;
+background-size: contain;
 
 }
 .container{
 
-background-image: url(img/Background.png);
+height: 100hv;
 
 }
