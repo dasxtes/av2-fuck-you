@@ -27,5 +27,10 @@ border-radius: 5px;
 padding: 1cm;
 color: var(--branco-principal);
 display: block;
+}
+.botao_segundario {
+
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
 
 }
