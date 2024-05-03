@@ -21,13 +21,15 @@ body {
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
 .container__botao {
-background-color: var(--botao-azul);
-border-radius: 5px;
-padding: 1cm;
-color: var(--branco-principal);
-display: block;
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1cm;
+    color: var(--branco-principal);
+    display: block;
 }
+
 .botao_segundario {
 
     background-color: transparent;
