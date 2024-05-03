@@ -36,3 +36,8 @@ body {
     border: 2px solid var(--branco-principal);
 
 }
+.container_imagem{
+    margin: 1em 0 2em;
+
+
+}
